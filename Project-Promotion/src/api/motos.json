@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Superbike 300",
+      "precio_antes": "$120,000 Us",
+      "precio_despues": "$100,000 Us",
+      "imagen": "https://www.solucionessobreruedas.mx/assets/images/product/MT-15-2024/mt15_23_2.webp"
+    },
+    {
+      "nombre": "City Scooter",
+      "precio_antes": "$10,000 Us",
+      "precio_despues": "$8,500 Us",
+      "imagen": "https://www.solucionessobreruedas.mx/assets/images/product/MT-15-2024/mt15_23_2.webp"
+    },
+    {
+      "nombre": "Off-Road Beast",
+      "precio_antes": "$25,000 Us",
+      "precio_despues": "$22,000 Us",
+      "imagen": "https://www.solucionessobreruedas.mx/assets/images/product/MT-15-2024/mt15_23_2.webp"
+    },
+    {
+      "nombre": "Cruiser 500",
+      "precio_antes": "$45,000 Us",
+      "precio_despues": "$40,000 Us",
+      "imagen": "https://www.solucionessobreruedas.mx/assets/images/product/MT-15-2024/mt15_23_2.webp"
+    },
+    {
+      "nombre": "Electric Bike",
+      "precio_antes": "$15,000 Us",
+      "precio_despues": "$12,500 Us",
+      "imagen": "https://www.solucionessobreruedas.mx/assets/images/product/MT-15-2024/mt15_23_2.webp"
+    }
+  ]
+  
